@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.skripsi.innasya.optscan.Activity.ActivityResult">
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:scaleType="fitXY"
+        android:id="@+id/foto_informasi" />
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="150dp"
+        android:layout_gravity="bottom"
+        android:background="@color/transparent_white"
+        android:layout_weight="0.7">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginRight="25dp"
+            android:layout_marginLeft="25dp"
+            android:layout_marginBottom="25dp"
+            android:orientation="vertical" >
+
+            <TextView
+                android:text="Hasil Analisa"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20dp"
+                android:textSize="20dp"
+                android:layout_gravity="right"
+                android:id="@+id/textView8" />
+
+            <TextView
+                android:text="@string/contoh_nama"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="7pt"
+                android:textStyle="bold"
+                android:layout_gravity="right"
+                android:id="@+id/namaOPT" />
+
+            <TextView
+                android:text="@string/contoh_pola"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="6pt"
+                android:layout_marginBottom="4dp"
+                android:layout_gravity="right"
+                android:id="@+id/nama_latin" />
+
+            <TextView
+                android:text="@string/contoh_desc"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="4pt"
+                android:layout_marginBottom="5dp"
+                android:layout_marginLeft="20dp"
+                android:textAlignment="textEnd"
+                android:id="@+id/desc" />
+
+            <android.support.design.widget.FloatingActionButton
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:clickable="true"
+                app:fabSize="mini"
+                android:layout_marginTop="15dp"
+                app:srcCompat="@drawable/fertilizer_icon_white"
+                android:id="@+id/pest_button" />
+
+        </LinearLayout>
+    </ScrollView>
+
+</FrameLayout>

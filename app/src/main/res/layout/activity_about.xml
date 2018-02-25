@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/content_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_margin="25dp"
+            android:orientation="vertical" >
+
+            <ImageView
+                android:layout_width="175dp"
+                android:layout_height="175dp"
+                android:layout_marginBottom="20dp"
+                android:layout_gravity="center"
+                android:src="@drawable/icon"
+                />
+
+            <TextView
+                android:text="OPT SCAN"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textStyle="bold"
+                android:textSize="18sp" />
+
+            <TextView
+                android:text="VERSI"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="5dp"
+                android:textStyle="bold"
+                android:id="@+id/versioning" />
+
+            <TextView
+                android:text="OPT (Organisme Pengganggu Tanaman) SCAN Adalah Sistem untuk mengidentifikasi hama dan penyakit bawang merah berbasis android."
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dp"
+                android:layout_marginBottom="5dp"
+                android:id="@+id/tentang" />
+
+            <TextView
+                android:text="Tim Penyusun :"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textStyle="bold"
+                android:layout_marginTop="10dp"
+                android:textSize="18sp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dp"
+                android:layout_marginBottom="5dp"
+                android:id="@+id/penyusun" />
+
+            <TextView
+                android:text="Pengembang Aplikasi :"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textStyle="bold"
+                android:layout_marginTop="10dp"
+                android:textSize="18sp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dp"
+                android:layout_marginBottom="5dp"
+                android:id="@+id/pengembang" />
+
+
+            <LinearLayout
+                android:orientation="horizontal"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="20dp"
+                android:layout_weight="0.09"
+                android:layout_gravity="bottom">
+
+                <ImageView
+                    android:src="@drawable/uin"
+                    android:layout_margin="5dp"
+                    android:id="@+id/imageView2"
+                    android:layout_width="67dp"
+                    android:layout_height="100dp" />
+
+                <LinearLayout
+                    android:orientation="vertical"
+                    android:layout_height="match_parent"
+                    android:layout_width="56dp">
+
+                    <ImageView
+                        android:layout_width="40dp"
+                        android:src="@drawable/kemen"
+                        android:id="@+id/imageView4"
+                        android:layout_margin="5dp"
+                        android:layout_height="40dp" />
+
+                    <ImageView
+                        android:layout_width="40dp"
+                        android:layout_margin="5dp"
+                        android:src="@drawable/balitsa"
+                        android:id="@+id/imageView3"
+                        android:layout_height="40dp" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:orientation="vertical"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_margin="10dp"
+                    android:layout_weight="0.33">
+
+                    <TextView
+                        android:text="@string/balista"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:textSize="12pt"
+                        android:layout_marginBottom="7dp"
+                        android:id="@+id/textView3" />
+
+                    <TextView
+                        android:text="@string/balista_desc1"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:textSize="4pt"
+                        android:id="@+id/textView4" />
+
+                    <TextView
+                        android:text="@string/balista_desc2"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:textSize="4pt"
+                        android:id="@+id/textView5" />
+
+                    <TextView
+                        android:text="@string/balista_desc3"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:textColor="@android:color/white"
+                        android:textSize="4pt"
+                        android:layout_marginBottom="10dp"
+                        android:id="@+id/textView6" />
+                </LinearLayout>
+
+            </LinearLayout>
+        </LinearLayout>
+    </ScrollView>
+
+</FrameLayout>

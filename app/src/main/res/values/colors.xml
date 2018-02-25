@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008a00</color>
+    <color name="colorPrimaryDark">#00aba9</color>
+    <color name="colorAccent">#F4511E</color>
+
+    <color name="white">#ffffff</color>
+    <color name="transparent_white">#D9ffffff</color>
+    <color name="transparent_full_white">#00ffffff</color>
+    <color name="DarkBlue">#4b4b76</color>
+    <color name="grey">#f7f7f7</color>
+    <color name="lightPurple">#b070ab</color>
+    <color name="Tosca">#5b8f8f</color>
+    <color name="DarkGrey">#6c4d81</color>
+    <color name="Purple">#955a91</color>
+    <color name="DarkPurple">#5a416f</color>
+
+    <color name="emerald">#008a00</color>
+    <color name="teal">#00aba9</color>
+    <color name="cyan">#1ba1e2</color>
+    <color name="violet">#aa00ff</color>
+    <color name="indigo">#6a00ff</color>
+    <color name="magenta">#d80073</color>
+    <color name="olive">#6d8764</color>
+    <color name="steel">#647687</color>
+
+    <color name="ToscaGradient1">#05c0d9</color>
+    <color name="ToscaGradient2">#03c5e1</color>
+    <color name="ToscaGradient3">#02c8d8</color>
+    <color name="ToscaGradient4">#00a5c5</color>
+    <color name="ToscaGradient5">#007f85</color>
+
+    <color name="red">#F0001D</color>
+    <color name="pressed_red">#B3F0001D</color>
+    <color name="pressed_white">#99FFFFFF</color>
+</resources>

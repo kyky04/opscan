@@ -1,0 +1,1362 @@
+[
+  {
+    "id": "1",
+    "opt_id": "1",
+    "merek_dagang": "Acanto 250 ",
+    "bahan_aktif": "pikositrobin",
+    "cara_kerja": "11",
+    "bahaya_pestisida": "U"
+  },
+  {
+    "id": "2",
+    "opt_id": "1",
+    "merek_dagang": "Agrokol 70 WP",
+    "bahan_aktif": "propineb",
+    "cara_kerja": "M3",
+    "bahaya_pestisida": "U"
+  },
+  {
+    "id": "3",
+    "opt_id": "1",
+    "merek_dagang": "Ajoz 200/130 SC ",
+    "bahan_aktif": "azoksistrobin + difenokonazol",
+    "cara_kerja": "11 + 3",
+    "bahaya_pestisida": "U + II"
+  },
+  {
+    "id": "4",
+    "opt_id": "1",
+    "merek_dagang": "Alberto 375 SC",
+    "bahan_aktif": "azoksistrobin + difenokonazol",
+    "cara_kerja": "11 + 3",
+    "bahaya_pestisida": "U + II"
+  },
+  {
+    "id": "5",
+    "opt_id": "1",
+    "merek_dagang": "Alterna 90 WP ",
+    "bahan_aktif": "ziram",
+    "cara_kerja": "M3",
+    "bahaya_pestisida": "II"
+  },
+  {
+    "id": "6",
+    "opt_id": "1",
+    "merek_dagang": "Amcozeb 80 WP",
+    "bahan_aktif": "mankozeb",
+    "cara_kerja": "M3",
+    "bahaya_pestisida": "U"
+  },
+  {
+    "id": "7",
+    "opt_id": "1",
+    "merek_dagang": "Amira 300 sc",
+    "bahan_aktif": "azoksistrobin",
+    "cara_kerja": "11",
+    "bahaya_pestisida": "U"
+  },
+  {
+    "id": "8",
+    "opt_id": "1",
+    "merek_dagang": "Amistar 250 SC ",
+    "bahan_aktif": "azoksistrobin",
+    "cara_kerja": "11",
+    "bahaya_pestisida": "U"
+  },
+  {
+    "id": "9",
+    "opt_id": "1",
+    "merek_dagang": "Amistartop 325 SC",
+    "bahan_aktif": "azoksistrobin + difenokonazol",
+    "cara_kerja": "11 + 3",
+    "bahaya_pestisida": "U + II"
+  },
+  {
+    "id": "10",
+    "opt_id": "1",
+    "merek_dagang": "amoratop 375 SC",
+    "bahan_aktif": "azoksistrobin + difenokonazol",
+    "cara_kerja": "11 + 3",
+    "bahaya_pestisida": "U + II"
+  },
+  {
+    "id": "11",
+    "opt_id": "1",
+    "merek_dagang": "anmi 100 SC",
+    "bahan_aktif": "heksakonazol",
+    "cara_kerja": "3",
+    "bahaya_pestisida": "III"
+  },
+  {
+    "id": "12",
+    "opt_id": "1",
+    "merek_dagang": "Antrpol 70 WP",
+    "bahan_aktif": "propineb",
+    "cara_kerja": "M3",
+    "bahaya_pestisida": "U"
+  },
+  {
+    "id": "13",
+    "opt_id": "1",
+    "merek_dagang": "Antigermen-Plus 520 SC",
+    "bahan_aktif": "metil tiofanat",
+    "cara_kerja": "1",
+    "bahaya_pestisida": "U"
+  },
+  {
+    "id": "14",
+    "opt_id": "1",
+    "merek_dagang": "Antila 80 WP",
+    "bahan_aktif": "mankozeb",
+    "cara_kerja": "M3",
+    "bahaya_pestisida": "U"
+  },
+  {
+    "id": "15",
+    "opt_id": "1",
+    "merek_dagang": "Antracol 70 WP",
+    "bahan_aktif": "propineb",
+    "cara_kerja": "M3",
+    "bahaya_pestisida": "U"
+  },
+  {
+    "id": "16",
+    "opt_id": "1",
+    "merek_dagang": "Anvil 50 SC ",
+    "bahan_aktif": "heksakonazol",
+    "cara_kerja": "3",
+    "bahaya_pestisida": "III"
+  },
+  {
+    "id": "17",
+    "opt_id": "1",
+    "merek_dagang": "Apikol 70 WP",
+    "bahan_aktif": "propineb",
+    "cara_kerja": "M3",
+    "bahaya_pestisida": "U"
+  },
+  {
+    "id": "18",
+    "opt_id": "1",
+    "merek_dagang": "Aurora 70 WP",
+    "bahan_aktif": "propineb",
+    "cara_kerja": "M3",
+    "bahaya_pestisida": "U"
+  },
+  {
+    "id": "19",
+    "opt_id": "1",
+    "merek_dagang": "Azostar 250 SC",
+    "bahan_aktif": "azoksistrobin",
+    "cara_kerja": "11",
+    "bahaya_pestisida": "U"
+  },
+  {
+    "id": "20",
+    "opt_id": "1",
+    "merek_dagang": "Azoxa 280 SC",
+    "bahan_aktif": "azoksistrobin",
+    "cara_kerja": "11",
+    "bahaya_pestisida": "U"
+  },
+  {
+    "id": "21",
+    "opt_id": "1",
+    "merek_dagang": "bazoka 80 wp",
+    "bahan_aktif": "mankozeb",
+    "cara_kerja": "M3",
+    "bahaya_pestisida": "U"
+  },
+  {
+    "id": "22",
+    "opt_id": "1",
+    "merek_dagang": "bellkute 40 WP",
+    "bahan_aktif": "iminoktadin tris (albesilat)",
+    "cara_kerja": "M7",
+    "bahaya_pestisida": "II"
+  },
+  {
+    "id": "23",
+    "opt_id": "1",
+    "merek_dagang": "bi-col 77 wp",
+    "bahan_aktif": "propineb",
+    "cara_kerja": "M3",
+    "bahaya_pestisida": "U"
+  },
+  {
+    "id": "24",
+    "opt_id": "1",
+    "merek_dagang": "Brantacol 70 WP",
+    "bahan_aktif": "propineb",
+    "cara_kerja": "M3",
+    "bahaya_pestisida": "U"
+  },
+  {
+    "id": "25",
+    "opt_id": "1",
+    "merek_dagang": "Broconil 75 WP",
+    "bahan_aktif": "klorotalonil",
+    "cara_kerja": "M5",
+    "bahaya_pestisida": "U"
+  },
+  {
+    "id": "26",
+    "opt_id": "1",
+    "merek_dagang": "Carbio 250 EC",
+    "bahan_aktif": "pikositrobin",
+    "cara_kerja": "11",
+    "bahaya_pestisida": "U"
+  },
+  {
+    "id": "27",
+    "opt_id": "1",
+    "merek_dagang": "CBA-COL 70 WP",
+    "bahan_aktif": "propineb",
+    "cara_kerja": "M3",
+    "bahaya_pestisida": "U"
+  },
+  {
+    "id": "28",
+    "opt_id": "1",
+    "merek_dagang": "Centro75WG",
+    "bahan_aktif": "klorotalonil",
+    "cara_kerja": "M5",
+    "bahaya_pestisida": "U"
+  },
+  {
+    "id": "29",
+    "opt_id": "1",
+    "merek_dagang": "Centro75WP",
+    "bahan_aktif": "klorotalonil",
+    "cara_kerja": "M5",
+    "bahaya_pestisida": "U"
+  },
+  {
+    "id": "30",
+    "opt_id": "1",
+    "merek_dagang": "Colanta 70 WP",
+    "bahan_aktif": "propineb",
+    "cara_kerja": "M3",
+    "bahaya_pestisida": "U"
+  },
+  {
+    "id": "31",
+    "opt_id": "1",
+    "merek_dagang": "Contacnil75 WP ",
+    "bahan_aktif": "klorotalonil",
+    "cara_kerja": "M5",
+    "bahaya_pestisida": "U"
+  },
+  {
+    "id": "32",
+    "opt_id": "1",
+    "merek_dagang": "Coridor 250 EC",
+    "bahan_aktif": "difenokonazol",
+    "cara_kerja": "3",
+    "bahaya_pestisida": "II"
+  },
+  {
+    "id": "33",
+    "opt_id": "1",
+    "merek_dagang": "Corona 325 SC",
+    "bahan_aktif": "azoksistrobin + difenokonazol",
+    "cara_kerja": "11 + 3",
+    "bahaya_pestisida": "U + II"
+  },
+  {
+    "id": "34",
+    "opt_id": "1",
+    "merek_dagang": "Cozeb80WP",
+    "bahan_aktif": "mankozeb",
+    "cara_kerja": "M3",
+    "bahaya_pestisida": "U"
+  },
+  {
+    "id": "35",
+    "opt_id": "1",
+    "merek_dagang": "Curxanil 8/64 WP",
+    "bahan_aktif": "mankozeb+simoksanil",
+    "cara_kerja": "M3 + 27",
+    "bahaya_pestisida": "U + II"
+  },
+  {
+    "id": "36",
+    "opt_id": "1",
+    "merek_dagang": "Curzate 8/64 WP",
+    "bahan_aktif": "mankozeb+simoksanil",
+    "cara_kerja": "M3 + 27",
+    "bahaya_pestisida": "U + II"
+  },
+  {
+    "id": "37",
+    "opt_id": "1",
+    "merek_dagang": "Custodia 320 SC",
+    "bahan_aktif": "azoksistrobin + tebukonazol",
+    "cara_kerja": "11 + 3",
+    "bahaya_pestisida": "U + II"
+  },
+  {
+    "id": "38",
+    "opt_id": "1",
+    "merek_dagang": "Daconil500 SC",
+    "bahan_aktif": "klorotalonil",
+    "cara_kerja": "M5",
+    "bahaya_pestisida": "U"
+  },
+  {
+    "id": "39",
+    "opt_id": "1",
+    "merek_dagang": "Daconil 75 WP",
+    "bahan_aktif": "klorotalonil",
+    "cara_kerja": "M5",
+    "bahaya_pestisida": "U"
+  },
+  {
+    "id": "40",
+    "opt_id": "1",
+    "merek_dagang": "Dacozeb 80 WP",
+    "bahan_aktif": "mankozeb",
+    "cara_kerja": "M3",
+    "bahaya_pestisida": "U"
+  },
+  {
+    "id": "41",
+    "opt_id": "1",
+    "merek_dagang": "Davinci 325 SC",
+    "bahan_aktif": "azoksistrobin + difenokonazol",
+    "cara_kerja": "11 + 3",
+    "bahaya_pestisida": "U + II"
+  },
+  {
+    "id": "42",
+    "opt_id": "1",
+    "merek_dagang": "Danvil50 SC",
+    "bahan_aktif": "heksakonazol",
+    "cara_kerja": "3",
+    "bahaya_pestisida": "II"
+  },
+  {
+    "id": "43",
+    "opt_id": "1",
+    "merek_dagang": "Dargo 76 Wp",
+    "bahan_aktif": "propineb + simoksanil",
+    "cara_kerja": "M3 + 27",
+    "bahaya_pestisida": "U + II"
+  },
+  {
+    "id": "44",
+    "opt_id": "1",
+    "merek_dagang": "Dense 520 SC ",
+    "bahan_aktif": "metil tiofanat",
+    "cara_kerja": "1",
+    "bahaya_pestisida": "U"
+  },
+  {
+    "id": "45",
+    "opt_id": "1",
+    "merek_dagang": "Dense70WP ",
+    "bahan_aktif": "metil tiofanat",
+    "cara_kerja": "1",
+    "bahaya_pestisida": "U"
+  },
+  {
+    "id": "46",
+    "opt_id": "1",
+    "merek_dagang": "Detazeb 80 WP",
+    "bahan_aktif": "mankozeb",
+    "cara_kerja": "M3",
+    "bahaya_pestisida": "U"
+  },
+  {
+    "id": "47",
+    "opt_id": "1",
+    "merek_dagang": "Devote 10/35 WP",
+    "bahan_aktif": "difenokonazol + metil tiofanat",
+    "cara_kerja": "3 + ?",
+    "bahaya_pestisida": "II + ?"
+  },
+  {
+    "id": "48",
+    "opt_id": "1",
+    "merek_dagang": "Dithane M-45 80 WP ",
+    "bahan_aktif": "mankozeb",
+    "cara_kerja": "M3",
+    "bahaya_pestisida": "U"
+  },
+  {
+    "id": "49",
+    "opt_id": "1",
+    "merek_dagang": "Diveno 250 EC",
+    "bahan_aktif": "difenokonazol",
+    "cara_kerja": "3",
+    "bahaya_pestisida": "II"
+  },
+  {
+    "id": "50",
+    "opt_id": "1",
+    "merek_dagang": "Domark 100 EC",
+    "bahan_aktif": "tetrakonazol",
+    "cara_kerja": "3",
+    "bahaya_pestisida": "II"
+  },
+  {
+    "id": "51",
+    "opt_id": "1",
+    "merek_dagang": "Elario 50 WP",
+    "bahan_aktif": "benomil",
+    "cara_kerja": "1",
+    "bahaya_pestisida": "U"
+  },
+  {
+    "id": "52",
+    "opt_id": "1",
+    "merek_dagang": "Enkazeb 80 WP",
+    "bahan_aktif": "mankozeb",
+    "cara_kerja": "M3",
+    "bahaya_pestisida": "U"
+  },
+  {
+    "id": "53",
+    "opt_id": "1",
+    "merek_dagang": "Equation Pro 52 WG",
+    "bahan_aktif": "simoksanil + famoksadon",
+    "cara_kerja": "27 + 11",
+    "bahaya_pestisida": "II + U"
+  },
+  {
+    "id": "54",
+    "opt_id": "1",
+    "merek_dagang": "Estrago 250 SC",
+    "bahan_aktif": "azoksistrobin",
+    "cara_kerja": "11",
+    "bahaya_pestisida": "U"
+  },
+  {
+    "id": "55",
+    "opt_id": "1",
+    "merek_dagang": "Everoll 76 WP",
+    "bahan_aktif": "propineb + simoksanil",
+    "cara_kerja": "M3 + 27",
+    "bahaya_pestisida": "U + II"
+  },
+  {
+    "id": "56",
+    "opt_id": "1",
+    "merek_dagang": "Fitonil 75 WP",
+    "bahan_aktif": "klorotalonil",
+    "cara_kerja": "M5",
+    "bahaya_pestisida": "U"
+  },
+  {
+    "id": "57",
+    "opt_id": "1",
+    "merek_dagang": "Fitozeb 80 WP",
+    "bahan_aktif": "mankozeb",
+    "cara_kerja": "M3",
+    "bahaya_pestisida": "U"
+  },
+  {
+    "id": "58",
+    "opt_id": "1",
+    "merek_dagang": "Folicur 25 WP",
+    "bahan_aktif": "tebukonazol",
+    "cara_kerja": "3",
+    "bahaya_pestisida": "II"
+  },
+  {
+    "id": "59",
+    "opt_id": "1",
+    "merek_dagang": "Folicur 430 SC",
+    "bahan_aktif": "tebukonazol",
+    "cara_kerja": "3",
+    "bahaya_pestisida": "II"
+  },
+  {
+    "id": "60",
+    "opt_id": "1",
+    "merek_dagang": "Fullstop 325 SC",
+    "bahan_aktif": "azoksistrobin + difenokonazol",
+    "cara_kerja": "11 + 3",
+    "bahaya_pestisida": "U + II"
+  },
+  {
+    "id": "61",
+    "opt_id": "1",
+    "merek_dagang": "Furaxin 10 SL",
+    "bahan_aktif": "polioskin B",
+    "cara_kerja": "19",
+    "bahaya_pestisida": "?"
+  },
+  {
+    "id": "62",
+    "opt_id": "1",
+    "merek_dagang": "Gauss 125 SC",
+    "bahan_aktif": "epoksikonazol",
+    "cara_kerja": "3",
+    "bahaya_pestisida": "?"
+  },
+  {
+    "id": "63",
+    "opt_id": "1",
+    "merek_dagang": "Gilang75WP",
+    "bahan_aktif": "klorotalonil",
+    "cara_kerja": "M5",
+    "bahaya_pestisida": "U"
+  },
+  {
+    "id": "64",
+    "opt_id": "1",
+    "merek_dagang": "Greenacol 70 WP",
+    "bahan_aktif": "propineb",
+    "cara_kerja": "M3",
+    "bahaya_pestisida": "U"
+  },
+  {
+    "id": "65",
+    "opt_id": "1",
+    "merek_dagang": "Hajar 250/155 SC",
+    "bahan_aktif": "azoksistrobin + difenokonazol",
+    "cara_kerja": "11 + 3",
+    "bahaya_pestisida": "U + II"
+  },
+  {
+    "id": "66",
+    "opt_id": "1",
+    "merek_dagang": "Heksa50 SC",
+    "bahan_aktif": "heksakonazol",
+    "cara_kerja": "3",
+    "bahaya_pestisida": "III"
+  },
+  {
+    "id": "67",
+    "opt_id": "1",
+    "merek_dagang": "Hexagro 50 EC",
+    "bahan_aktif": "heksakonazol",
+    "cara_kerja": "3",
+    "bahaya_pestisida": "III"
+  },
+  {
+    "id": "68",
+    "opt_id": "1",
+    "merek_dagang": "Hydrocide 80 WP",
+    "bahan_aktif": "tembaga hidroksida",
+    "cara_kerja": "M1",
+    "bahaya_pestisida": "II"
+  },
+  {
+    "id": "69",
+    "opt_id": "1",
+    "merek_dagang": "lndocozeb 80 WP",
+    "bahan_aktif": "mankozeb",
+    "cara_kerja": "M3",
+    "bahaya_pestisida": "U"
+  },
+  {
+    "id": "70",
+    "opt_id": "1",
+    "merek_dagang": "Kendizol 250 EC",
+    "bahan_aktif": "difenokonazol",
+    "cara_kerja": "3",
+    "bahaya_pestisida": "II"
+  },
+  {
+    "id": "71",
+    "opt_id": "1",
+    "merek_dagang": "Klorotop 75 WP",
+    "bahan_aktif": "klorotalonil",
+    "cara_kerja": "M5",
+    "bahaya_pestisida": "II"
+  },
+  {
+    "id": "72",
+    "opt_id": "1",
+    "merek_dagang": "Kocide 54 WDG",
+    "bahan_aktif": "tembaga hidroksida",
+    "cara_kerja": "M1",
+    "bahaya_pestisida": "II"
+  },
+  {
+    "id": "73",
+    "opt_id": "1",
+    "merek_dagang": "Kordova 77 WP",
+    "bahan_aktif": "klorotalonil",
+    "cara_kerja": "M5",
+    "bahaya_pestisida": "U"
+  },
+  {
+    "id": "74",
+    "opt_id": "1",
+    "merek_dagang": "Kresnacol 70 WP",
+    "bahan_aktif": "propineb",
+    "cara_kerja": "M3",
+    "bahaya_pestisida": "U"
+  },
+  {
+    "id": "75",
+    "opt_id": "1",
+    "merek_dagang": "Longer 75 WP",
+    "bahan_aktif": "klorotalonil",
+    "cara_kerja": "M5",
+    "bahaya_pestisida": "U"
+  },
+  {
+    "id": "76",
+    "opt_id": "1",
+    "merek_dagang": "Luna Experience 400 SC",
+    "bahan_aktif": "fluopiran + tebukonazol",
+    "cara_kerja": "7 + 3",
+    "bahaya_pestisida": "? + 11"
+  },
+  {
+    "id": "77",
+    "opt_id": "1",
+    "merek_dagang": "Madazim 74/6 WP",
+    "bahan_aktif": "mankozeb + karbendazim ",
+    "cara_kerja": "M3 + 1",
+    "bahaya_pestisida": "U + U"
+  },
+  {
+    "id": "78",
+    "opt_id": "1",
+    "merek_dagang": "Manteb 80 WP",
+    "bahan_aktif": "makozeb",
+    "cara_kerja": "M3",
+    "bahaya_pestisida": "U"
+  },
+  {
+    "id": "79",
+    "opt_id": "1",
+    "merek_dagang": "Mantrakol 70 WP",
+    "bahan_aktif": "propineb",
+    "cara_kerja": "M3",
+    "bahaya_pestisida": "U"
+  },
+  {
+    "id": "80",
+    "opt_id": "1",
+    "merek_dagang": "Manzate 82 WP",
+    "bahan_aktif": "mankozeb",
+    "cara_kerja": "M3",
+    "bahaya_pestisida": "U"
+  },
+  {
+    "id": "81",
+    "opt_id": "1",
+    "merek_dagang": "Megazeb 80 WP",
+    "bahan_aktif": "mankozeb",
+    "cara_kerja": "M3",
+    "bahaya_pestisida": "U"
+  },
+  {
+    "id": "82",
+    "opt_id": "1",
+    "merek_dagang": "Merpan 80 WG",
+    "bahan_aktif": "kaptan",
+    "cara_kerja": "M4",
+    "bahaya_pestisida": "U"
+  },
+  {
+    "id": "83",
+    "opt_id": "1",
+    "merek_dagang": "Metazeb 80 WP",
+    "bahan_aktif": "mankozeb",
+    "cara_kerja": "M3",
+    "bahaya_pestisida": "U"
+  },
+  {
+    "id": "84",
+    "opt_id": "1",
+    "merek_dagang": "Nemispor 80 WP",
+    "bahan_aktif": "mankozeb",
+    "cara_kerja": "M3",
+    "bahaya_pestisida": "U"
+  },
+  {
+    "id": "85",
+    "opt_id": "1",
+    "merek_dagang": "Nobus 70WP",
+    "bahan_aktif": "propineb",
+    "cara_kerja": "M3",
+    "bahaya_pestisida": "U"
+  },
+  {
+    "id": "86",
+    "opt_id": "1",
+    "merek_dagang": "Nustar 400 EC",
+    "bahan_aktif": "flusilazol",
+    "cara_kerja": "3",
+    "bahaya_pestisida": "II"
+  },
+  {
+    "id": "87",
+    "opt_id": "1",
+    "merek_dagang": "Oktanil 75 WP",
+    "bahan_aktif": "klorotalonil",
+    "cara_kerja": "M5",
+    "bahaya_pestisida": "U"
+  },
+  {
+    "id": "88",
+    "opt_id": "1",
+    "merek_dagang": "Opus 75 EC",
+    "bahan_aktif": "epoksikonazol",
+    "cara_kerja": "3",
+    "bahaya_pestisida": "?"
+  },
+  {
+    "id": "89",
+    "opt_id": "1",
+    "merek_dagang": "Phytoklor 82",
+    "bahan_aktif": "5 WG",
+    "cara_kerja": "klorotalonil",
+    "bahaya_pestisida": "M5"
+  },
+  {
+    "id": "90",
+    "opt_id": "1",
+    "merek_dagang": "Polycom 70 WG",
+    "bahan_aktif": "metiram",
+    "cara_kerja": "M3",
+    "bahaya_pestisida": "U"
+  },
+  {
+    "id": "91",
+    "opt_id": "1",
+    "merek_dagang": "Pyramid 72 WP",
+    "bahan_aktif": "klorotalonil + metalaksil",
+    "cara_kerja": "M5 + 4",
+    "bahaya_pestisida": "U + II"
+  },
+  {
+    "id": "92",
+    "opt_id": "1",
+    "merek_dagang": "Recor250 EC",
+    "bahan_aktif": "difenokonazol",
+    "cara_kerja": "3",
+    "bahaya_pestisida": "II"
+  },
+  {
+    "id": "93",
+    "opt_id": "1",
+    "merek_dagang": "Redbell 300 SC",
+    "bahan_aktif": "azoksistrobin",
+    "cara_kerja": "11",
+    "bahaya_pestisida": "U"
+  },
+  {
+    "id": "94",
+    "opt_id": "1",
+    "merek_dagang": "Regio250SC",
+    "bahan_aktif": "azoksistrobin",
+    "cara_kerja": "11",
+    "bahaya_pestisida": "U"
+  },
+  {
+    "id": "95",
+    "opt_id": "1",
+    "merek_dagang": "Remazole-P 490 EC",
+    "bahan_aktif": "propikonazol + prokloraz",
+    "cara_kerja": "3 + 3",
+    "bahaya_pestisida": "II + II"
+  },
+  {
+    "id": "96",
+    "opt_id": "1",
+    "merek_dagang": "Remedy80WP",
+    "bahan_aktif": "zineb",
+    "cara_kerja": "M3",
+    "bahaya_pestisida": "U"
+  },
+  {
+    "id": "97",
+    "opt_id": "1",
+    "merek_dagang": "Revus Opti 440 SC",
+    "bahan_aktif": "klorotalonil + mandipropamid",
+    "cara_kerja": "M5 + 40",
+    "bahaya_pestisida": "U + U"
+  },
+  {
+    "id": "98",
+    "opt_id": "1",
+    "merek_dagang": "Rovral50WP",
+    "bahan_aktif": "iprodion",
+    "cara_kerja": "2",
+    "bahaya_pestisida": "III"
+  },
+  {
+    "id": "99",
+    "opt_id": "1",
+    "merek_dagang": "Sagri-Clean 50/30 EC",
+    "bahan_aktif": "metil tiofanat + tiram",
+    "cara_kerja": "1 + M3",
+    "bahaya_pestisida": "O + II"
+  },
+  {
+    "id": "100",
+    "opt_id": "1",
+    "merek_dagang": "Sagri-Treat 300/150 EC",
+    "bahan_aktif": "flusilazol + miklobutanil",
+    "cara_kerja": "3 + 3",
+    "bahaya_pestisida": "II + II"
+  },
+  {
+    "id": "101",
+    "opt_id": "1",
+    "merek_dagang": "Sagri-Zone 450 SC",
+    "bahan_aktif": "difenokonazol + azoksistrobin",
+    "cara_kerja": "3 + 11",
+    "bahaya_pestisida": "II + U"
+  },
+  {
+    "id": "102",
+    "opt_id": "1",
+    "merek_dagang": "Salto85WP",
+    "bahan_aktif": "dimetomorf",
+    "cara_kerja": "40",
+    "bahaya_pestisida": "U"
+  },
+  {
+    "id": "103",
+    "opt_id": "2",
+    "merek_dagang": "Folicur 430 SC",
+    "bahan_aktif": "tebukonazol",
+    "cara_kerja": "3",
+    "bahaya_pestisida": "II"
+  },
+  {
+    "id": "104",
+    "opt_id": "2",
+    "merek_dagang": "Nativo 75 WG",
+    "bahan_aktif": "tebukonazol + fluopiran",
+    "cara_kerja": "3 + 11",
+    "bahaya_pestisida": "II + U"
+  },
+  {
+    "id": "105",
+    "opt_id": "2",
+    "merek_dagang": "Amotan 250 SC",
+    "bahan_aktif": "azoksistrobin",
+    "cara_kerja": "11",
+    "bahaya_pestisida": "U"
+  },
+  {
+    "id": "106",
+    "opt_id": "2",
+    "merek_dagang": "Bendas 50 WP",
+    "bahan_aktif": "karbendazim",
+    "cara_kerja": "1",
+    "bahaya_pestisida": "U"
+  },
+  {
+    "id": "107",
+    "opt_id": "2",
+    "merek_dagang": "Benovap 50 WP",
+    "bahan_aktif": "benomil",
+    "cara_kerja": "1",
+    "bahaya_pestisida": "U"
+  },
+  {
+    "id": "108",
+    "opt_id": "2",
+    "merek_dagang": "Benstar 50 WP",
+    "bahan_aktif": "benomil",
+    "cara_kerja": "1",
+    "bahaya_pestisida": "U"
+  },
+  {
+    "id": "109",
+    "opt_id": "2",
+    "merek_dagang": "Bleacher 250 EC",
+    "bahan_aktif": "difenokonazol",
+    "cara_kerja": "3",
+    "bahaya_pestisida": "II"
+  },
+  {
+    "id": "110",
+    "opt_id": "2",
+    "merek_dagang": "Cigal 500 SC",
+    "bahan_aktif": "klorotalonil + tebukonazol",
+    "cara_kerja": "M5 + 3",
+    "bahaya_pestisida": "U + II"
+  },
+  {
+    "id": "111",
+    "opt_id": "2",
+    "merek_dagang": "Cozene 70/10 WP",
+    "bahan_aktif": "mankozeb + karbendazim",
+    "cara_kerja": "M3 + 1",
+    "bahaya_pestisida": "U + U"
+  },
+  {
+    "id": "112",
+    "opt_id": "2",
+    "merek_dagang": "Custodia 320 SC",
+    "bahan_aktif": "azoksistrobin + tebukonazol",
+    "cara_kerja": "11 + 3 ",
+    "bahaya_pestisida": "U + II"
+  },
+  {
+    "id": "113",
+    "opt_id": "2",
+    "merek_dagang": "Dorum 350 SC",
+    "bahan_aktif": "azoksistrobin",
+    "cara_kerja": "11",
+    "bahaya_pestisida": "U"
+  },
+  {
+    "id": "114",
+    "opt_id": "2",
+    "merek_dagang": "Fitokarb 50 WP",
+    "bahan_aktif": "karbendazim",
+    "cara_kerja": "1",
+    "bahaya_pestisida": "U"
+  },
+  {
+    "id": "115",
+    "opt_id": "2",
+    "merek_dagang": "Gallardo 250 EC",
+    "bahan_aktif": "difenokonazol",
+    "cara_kerja": "3",
+    "bahaya_pestisida": "II"
+  },
+  {
+    "id": "116",
+    "opt_id": "2",
+    "merek_dagang": "Hexacar 100 EC",
+    "bahan_aktif": "heksakonazol + karbendazim",
+    "cara_kerja": "3 + 1",
+    "bahaya_pestisida": "III + U"
+  },
+  {
+    "id": "117",
+    "opt_id": "2",
+    "merek_dagang": "Konsep 50 EC",
+    "bahan_aktif": "heksakonazol",
+    "cara_kerja": "3",
+    "bahaya_pestisida": "III"
+  },
+  {
+    "id": "118",
+    "opt_id": "2",
+    "merek_dagang": "Luna Experience 400 SC",
+    "bahan_aktif": "fluopiran + tebukonazol",
+    "cara_kerja": " 7 + 3",
+    "bahaya_pestisida": "? + II"
+  },
+  {
+    "id": "119",
+    "opt_id": "2",
+    "merek_dagang": "Paskal 50 WP",
+    "bahan_aktif": "karbendazim",
+    "cara_kerja": "1",
+    "bahaya_pestisida": "U"
+  },
+  {
+    "id": "120",
+    "opt_id": "2",
+    "merek_dagang": "Regio 250 SC",
+    "bahan_aktif": "azoksistrobin",
+    "cara_kerja": "11",
+    "bahaya_pestisida": "U"
+  },
+  {
+    "id": "121",
+    "opt_id": "2",
+    "merek_dagang": "Retro 8/64 WP",
+    "bahan_aktif": "metalaksil + mankozeb",
+    "cara_kerja": "4 + M3",
+    "bahaya_pestisida": "II + U"
+  },
+  {
+    "id": "122",
+    "opt_id": "2",
+    "merek_dagang": "Toscana 250 SC",
+    "bahan_aktif": "azoksistrobin",
+    "cara_kerja": "11",
+    "bahaya_pestisida": "U"
+  },
+  {
+    "id": "123",
+    "opt_id": "2",
+    "merek_dagang": "Vigold-T 480 SC",
+    "bahan_aktif": "fluopiran + tebukonazol",
+    "cara_kerja": "11 + 3",
+    "bahaya_pestisida": "U + II"
+  },
+  {
+    "id": "124",
+    "opt_id": "2",
+    "merek_dagang": "Zole 250 EC",
+    "bahan_aktif": "difenokonazol",
+    "cara_kerja": "3",
+    "bahaya_pestisida": "II"
+  },
+  {
+    "id": "125",
+    "opt_id": "3",
+    "merek_dagang": "Cabriotop 60 WG",
+    "bahan_aktif": "metiram + piraklotrobin",
+    "cara_kerja": "M3 + 11",
+    "bahaya_pestisida": "U + ?"
+  },
+  {
+    "id": "126",
+    "opt_id": "3",
+    "merek_dagang": "Detazeb 80 WP",
+    "bahan_aktif": "mankozeb",
+    "cara_kerja": "M3",
+    "bahaya_pestisida": "U"
+  },
+  {
+    "id": "127",
+    "opt_id": "3",
+    "merek_dagang": "Folicur 430 SC",
+    "bahan_aktif": "tebukonazol",
+    "cara_kerja": "3",
+    "bahaya_pestisida": "II"
+  },
+  {
+    "id": "128",
+    "opt_id": "3",
+    "merek_dagang": "Nativo 75 WG",
+    "bahan_aktif": "tebukonazol + fluopiran",
+    "cara_kerja": "3 + 11",
+    "bahaya_pestisida": "II + U"
+  },
+  {
+    "id": "129",
+    "opt_id": "3",
+    "merek_dagang": "Regio 250 SC",
+    "bahan_aktif": "azoksistrobin",
+    "cara_kerja": "11",
+    "bahaya_pestisida": "U"
+  },
+  {
+    "id": "130",
+    "opt_id": "3",
+    "merek_dagang": "Saolin 62",
+    "bahan_aktif": "5 WG",
+    "cara_kerja": "siprodinil + fludiokonil",
+    "bahaya_pestisida": "10 + 12"
+  },
+  {
+    "id": "131",
+    "opt_id": "4",
+    "merek_dagang": "Alberto 375 SC",
+    "bahan_aktif": "azoksistrobin + difenokonazol",
+    "cara_kerja": "11 + 3",
+    "bahaya_pestisida": "U + II"
+  },
+  {
+    "id": "132",
+    "opt_id": "4",
+    "merek_dagang": "Amira 300 sc",
+    "bahan_aktif": "azoksistrobin",
+    "cara_kerja": "11",
+    "bahaya_pestisida": "U"
+  },
+  {
+    "id": "133",
+    "opt_id": "4",
+    "merek_dagang": "amoratop 375 SC",
+    "bahan_aktif": "azoksistrobin + difenokonazol",
+    "cara_kerja": "11 + 3",
+    "bahaya_pestisida": "U + II"
+  },
+  {
+    "id": "134",
+    "opt_id": "4",
+    "merek_dagang": "Consento 450 SC",
+    "bahan_aktif": "propamokrarb hidroklorida + fenamidon",
+    "cara_kerja": "28 + 11",
+    "bahaya_pestisida": "U + ?"
+  },
+  {
+    "id": "135",
+    "opt_id": "4",
+    "merek_dagang": "Custodia 320 SC",
+    "bahan_aktif": "azoksistrobin + tebukonazol",
+    "cara_kerja": "11 + 3 ",
+    "bahaya_pestisida": "U + II"
+  },
+  {
+    "id": "136",
+    "opt_id": "4",
+    "merek_dagang": "Daconil 75 WP",
+    "bahan_aktif": "klorotalonil",
+    "cara_kerja": "M5",
+    "bahaya_pestisida": "U"
+  },
+  {
+    "id": "137",
+    "opt_id": "4",
+    "merek_dagang": "Folicur 430 SC",
+    "bahan_aktif": "tebukonazol",
+    "cara_kerja": "3",
+    "bahaya_pestisida": "II"
+  },
+  {
+    "id": "138",
+    "opt_id": "4",
+    "merek_dagang": "Furaxin 10 SL",
+    "bahan_aktif": "polioskin B",
+    "cara_kerja": "19",
+    "bahaya_pestisida": "?"
+  },
+  {
+    "id": "139",
+    "opt_id": "4",
+    "merek_dagang": "Longer 75 WP",
+    "bahan_aktif": "klorotalonil",
+    "cara_kerja": "M5",
+    "bahaya_pestisida": "U"
+  },
+  {
+    "id": "140",
+    "opt_id": "4",
+    "merek_dagang": "Pyramid 72 WP",
+    "bahan_aktif": "klorotalonil + metalaksil",
+    "cara_kerja": "M5 + 4",
+    "bahaya_pestisida": "U + II"
+  },
+  {
+    "id": "141",
+    "opt_id": "4",
+    "merek_dagang": "Redbell 300 SC",
+    "bahan_aktif": "azoksistrobin",
+    "cara_kerja": "11",
+    "bahaya_pestisida": "U"
+  },
+  {
+    "id": "142",
+    "opt_id": "4",
+    "merek_dagang": "Revus Opti 440 SC",
+    "bahan_aktif": "klorotalonil + mandipropamid",
+    "cara_kerja": "M5 + 40",
+    "bahaya_pestisida": "U + U"
+  },
+  {
+    "id": "143",
+    "opt_id": "4",
+    "merek_dagang": "Trivia 73WP",
+    "bahan_aktif": "propineb + fluopikolid",
+    "cara_kerja": "M3 + 43",
+    "bahaya_pestisida": "U + II"
+  },
+  {
+    "id": "144",
+    "opt_id": "4",
+    "merek_dagang": "Ventra 75 WP",
+    "bahan_aktif": "klorotalonil",
+    "cara_kerja": "M5",
+    "bahaya_pestisida": "U"
+  },
+  {
+    "id": "145",
+    "opt_id": "4",
+    "merek_dagang": "Skipper 50/20 WP",
+    "bahan_aktif": "tembaga oksiklorida + simoksanil",
+    "cara_kerja": "M1 + 27",
+    "bahaya_pestisida": "II + II"
+  },
+  {
+    "id": "146",
+    "opt_id": "4",
+    "merek_dagang": "Lucero 70 WP",
+    "bahan_aktif": "dimetomorf",
+    "cara_kerja": "40",
+    "bahaya_pestisida": "U"
+  },
+  {
+    "id": "147",
+    "opt_id": "4",
+    "merek_dagang": "Ortega 80 WP",
+    "bahan_aktif": "tiram",
+    "cara_kerja": "M3",
+    "bahaya_pestisida": "II"
+  },
+  {
+    "id": "148",
+    "opt_id": "4",
+    "merek_dagang": "Zerrin 90 WP",
+    "bahan_aktif": "ziram",
+    "cara_kerja": "M3",
+    "bahaya_pestisida": "II"
+  },
+  {
+    "id": "149",
+    "opt_id": "5",
+    "merek_dagang": "Amotan 250 SC",
+    "bahan_aktif": "azoksistrobin",
+    "cara_kerja": "11",
+    "bahaya_pestisida": "U"
+  },
+  {
+    "id": "150",
+    "opt_id": "5",
+    "merek_dagang": "Bendas 50 WP",
+    "bahan_aktif": "karbendazim",
+    "cara_kerja": "1",
+    "bahaya_pestisida": "U"
+  },
+  {
+    "id": "151",
+    "opt_id": "5",
+    "merek_dagang": "Benovap 50 WP",
+    "bahan_aktif": "benomil",
+    "cara_kerja": "1",
+    "bahaya_pestisida": "U"
+  },
+  {
+    "id": "152",
+    "opt_id": "5",
+    "merek_dagang": "Benstar 50 WP",
+    "bahan_aktif": "benomil",
+    "cara_kerja": "1",
+    "bahaya_pestisida": "U"
+  },
+  {
+    "id": "153",
+    "opt_id": "5",
+    "merek_dagang": "Bleacher 250 EC",
+    "bahan_aktif": "difenokonazol",
+    "cara_kerja": "3",
+    "bahaya_pestisida": "II"
+  },
+  {
+    "id": "154",
+    "opt_id": "5",
+    "merek_dagang": "Cigal 500 SC",
+    "bahan_aktif": "klorotalonil + tebukonazol",
+    "cara_kerja": "M5 + 3",
+    "bahaya_pestisida": "U + II"
+  },
+  {
+    "id": "155",
+    "opt_id": "5",
+    "merek_dagang": "Cozene 70/10 WP",
+    "bahan_aktif": "mankozeb + karbendazim",
+    "cara_kerja": "M3 + 1",
+    "bahaya_pestisida": "U + U"
+  },
+  {
+    "id": "156",
+    "opt_id": "5",
+    "merek_dagang": "Custodia 320 SC",
+    "bahan_aktif": "azoksistrobin + tebukonazol",
+    "cara_kerja": "11 + 3 ",
+    "bahaya_pestisida": "U + II"
+  },
+  {
+    "id": "157",
+    "opt_id": "5",
+    "merek_dagang": "Dorum 350 SC",
+    "bahan_aktif": "azoksistrobin",
+    "cara_kerja": "11",
+    "bahaya_pestisida": "U"
+  },
+  {
+    "id": "158",
+    "opt_id": "5",
+    "merek_dagang": "Fitokarb 50 WP",
+    "bahan_aktif": "karbendazim",
+    "cara_kerja": "1",
+    "bahaya_pestisida": "U"
+  },
+  {
+    "id": "159",
+    "opt_id": "5",
+    "merek_dagang": "Folicur 430 SC",
+    "bahan_aktif": "tebukonazol",
+    "cara_kerja": "3",
+    "bahaya_pestisida": "II"
+  },
+  {
+    "id": "160",
+    "opt_id": "5",
+    "merek_dagang": "Gallardo 250 EC",
+    "bahan_aktif": "difenokonazol",
+    "cara_kerja": "3",
+    "bahaya_pestisida": "II"
+  },
+  {
+    "id": "161",
+    "opt_id": "5",
+    "merek_dagang": "Hexacar 100 EC",
+    "bahan_aktif": "heksakonazol + karbendazim",
+    "cara_kerja": "3 + 1",
+    "bahaya_pestisida": "III + U"
+  },
+  {
+    "id": "162",
+    "opt_id": "5",
+    "merek_dagang": "Konsep 50 EC",
+    "bahan_aktif": "heksakonazol",
+    "cara_kerja": "3",
+    "bahaya_pestisida": "III"
+  },
+  {
+    "id": "163",
+    "opt_id": "5",
+    "merek_dagang": "Luna Experience 400 SC",
+    "bahan_aktif": "fluopiran + tebukonazol",
+    "cara_kerja": " 7 + 3",
+    "bahaya_pestisida": "? + II"
+  },
+  {
+    "id": "164",
+    "opt_id": "5",
+    "merek_dagang": "Nativo 75 WG",
+    "bahan_aktif": "tebukonazol + fluopiran",
+    "cara_kerja": "3 + 11",
+    "bahaya_pestisida": "II + U"
+  },
+  {
+    "id": "165",
+    "opt_id": "5",
+    "merek_dagang": "Paskal 50 WP",
+    "bahan_aktif": "karbendazim",
+    "cara_kerja": "1",
+    "bahaya_pestisida": "U"
+  },
+  {
+    "id": "166",
+    "opt_id": "5",
+    "merek_dagang": "Regio 250 SC",
+    "bahan_aktif": "azoksistrobin",
+    "cara_kerja": "11",
+    "bahaya_pestisida": "U"
+  },
+  {
+    "id": "167",
+    "opt_id": "5",
+    "merek_dagang": "Retro 8/64 WP",
+    "bahan_aktif": "metalaksil + mankozeb",
+    "cara_kerja": "4 + M3",
+    "bahaya_pestisida": "II + U"
+  },
+  {
+    "id": "168",
+    "opt_id": "5",
+    "merek_dagang": "Toscana 250 SC",
+    "bahan_aktif": "azoksistrobin",
+    "cara_kerja": "11",
+    "bahaya_pestisida": "U"
+  },
+  {
+    "id": "169",
+    "opt_id": "5",
+    "merek_dagang": "Vigold-T 480 SC",
+    "bahan_aktif": "fluopiran + tebukonazol",
+    "cara_kerja": "11 + 3",
+    "bahaya_pestisida": "U + II"
+  },
+  {
+    "id": "170",
+    "opt_id": "5",
+    "merek_dagang": "Zole 250 EC",
+    "bahan_aktif": "difenokonazol",
+    "cara_kerja": "3",
+    "bahaya_pestisida": "II"
+  }
+]

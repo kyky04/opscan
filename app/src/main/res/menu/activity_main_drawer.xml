@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:visible="false"
+            android:id="@+id/nav_camera"
+            android:icon="@drawable/ic_menu_pages"
+            android:title="@string/action_impor" />
+        <item
+            android:id="@+id/nav_gallery"
+            android:icon="@drawable/ic_menu_gallery"
+            android:title="@string/action_galeri" />
+        <item
+            android:id="@+id/nav_penyakit"
+            android:icon="@drawable/ic_assignment"
+            android:title="@string/action_kelompok" />
+    </group>
+
+    <group android:checkableBehavior="single" >
+        <item
+            android:id="@+id/nav_about"
+            android:icon="@drawable/ic_menu_error_outline"
+            android:title="@string/about" />
+    </group>
+
+</menu>

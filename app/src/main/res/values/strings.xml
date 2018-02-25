@@ -1,0 +1,131 @@
+<resources>
+    <string name="app_name">OPTScan</string>
+
+    <string name="navigation_drawer_open">Buka Navigasi</string>
+    <string name="navigation_drawer_close">Tutup Navigasi</string>
+    <string name="welcome">Selamat Datang</string>
+    <string name="balista">BALITSA</string>
+    <string name="balista_desc1">Balai Penelitian Tanaman Sayuran</string>
+    <string name="balista_desc2">Badan Penelitian dan Pengembangan Pertanian</string>
+    <string name="balista_desc3">Kementrian Pertanian</string>
+
+    <string name="action_galeri">Kelompok Hama Tanaman</string>
+    <string name="about">Tentang</string>
+    <string name="how_to">Cara Menggunakan</string>
+    <string name="action_impor">Import File</string>
+    <string name="action_kelompok">Kelompok Penyakit Tanaman</string>
+    <string name="deteksi">Deteksi</string>
+    <string name="simpan">Simpan</string>
+    <string name="title_activity_settings">Settings</string>
+
+    <string name="subtitle_nav">Semua Tentang OPT Yang Kau Cari</string>
+
+    <string name="nama">Nama Batu</string>
+    <string name="jenis">Jenis Batu</string>
+    <string name="desc">Deskripsi Batu</string>
+
+    <string-array name="struktur_batu">
+        <item>Body Glass</item>
+        <item>Body Solid</item>
+        <item>Serat Benang</item>
+        <item>Bercak</item>
+    </string-array>
+
+    <string name="proses">Proses</string>
+
+    <string name="pref_header_general">General</string>
+
+    <string name="pref_title_social_recommendations">Enable social recommendations</string>
+
+    <string name="pref_description_social_recommendations">Recommendations for people to contact
+        based on your message history
+    </string>
+
+    <string name="pref_title_display_name">Display name</string>
+    <string name="pref_default_display_name">John Smith</string>
+
+    <string name="pref_title_add_friends_to_messages">Add friends to messages</string>
+    <string-array name="pref_example_list_titles">
+        <item>Always</item>
+        <item>When possible</item>
+        <item>Never</item>
+    </string-array>
+    <string-array name="pref_example_list_values">
+        <item>1</item>
+        <item>0</item>
+        <item>-1</item>
+    </string-array>
+    <string name="pref_header_data_sync">Data &amp; sync</string>
+    <string name="pref_title_sync_frequency">Sync frequency</string>
+    <string-array name="pref_sync_frequency_titles">
+        <item>15 minutes</item>
+        <item>30 minutes</item>
+        <item>1 hour</item>
+        <item>3 hours</item>
+        <item>6 hours</item>
+        <item>Never</item>
+    </string-array>
+    <string-array name="pref_sync_frequency_values">
+        <item>15</item>
+        <item>30</item>
+        <item>60</item>
+        <item>180</item>
+        <item>360</item>
+        <item>-1</item>
+    </string-array>
+
+    <string-array name="list_preference_entries">
+        <item>Entry 1</item>
+        <item>Entry 2</item>
+        <item>Entry 3</item>
+    </string-array>
+
+    <string-array name="list_preference_entry_values">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+
+    <string-array name="multi_select_list_preference_default_value" />
+    <string name="pref_title_system_sync_settings">System sync settings</string>
+    <string name="pref_header_notifications">Notifications</string>
+    <string name="pref_title_new_message_notifications">New message notifications</string>
+    <string name="pref_title_ringtone">Ringtone</string>
+    <string name="pref_ringtone_silent">Silent</string>
+    <string name="pref_title_vibrate">Vibrate</string>
+    <string name="action_settings">Settings</string>
+    <string name="start_image_capture">Take New Picture!</string>
+    <string name="capture_image">Snap It!</string>
+    <string name="save_image">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="swap_camera">Swap</string>
+    <string name="flash">Flash</string>
+    <string name="auto_flash">Auto Flash</string>
+    <string name="no_flash">No Flash</string>
+    <string name="recapture_image">Retake Picture</string>
+    <string name="capturing_image">Taking New Picture</string>
+    <string name="done">Done</string>
+    <string name="request_write_storage_permission_text">Approval is needed to save your photo on your device</string>
+    <string name="title_activity_review">ActivityReview</string>
+    <string name="title_activity_galeri_batu">Galeri OPTers</string>
+    <string name="title_pestisida">Pestisida</string>
+
+    <string name="lakukan_proses">Lakukan Proses?</string>
+    <string name="title_activity_tutorial">ActivityTutorial</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="contoh_nama">Green Chalcedony | Hijau Garut</string>
+    <string name="contoh_warna">Merah Api | Kuning</string>
+    <string name="contoh_asal">Kabupaten Wonosobo, Provinsi Jawa Tengah</string>
+    <string name="contoh_pola">Body Glass</string>
+    <string name="contoh_desc">Batu Merah Delima umunya berwarna merah yang dapat bervariasi antara merah muda
+                    hingga merah darah dan merupakan salah satu jenis dari mineral korundum
+                    (aluminium oksida). Warnanya terutama disebabkan oleh kromium. Namanya
+                    berasal dari buah delima yang isinya berwarna merah. Rubi alami sangat jarang,
+                    tetapi rubi buatan dapat difabrikasi dengan cukup murah. Rubi dianggap
+                    merupakan salah satu dari empat batu berharga bersama dengan safir, zamrud, dan intan.</string>
+
+    <string name="tentang">Tentang</string>
+    <string name="tentang_1">1. aplikasi ini merupakan aplikasi pengenalan jenis penyakit bawang menggunakan implementasi metode Ciri Statistik Histogram dan K-Nearest Neighbour</string>
+    <string name="tentang_3">2. aplikasi ini merupakan salah satu syarat untuk memenuhi tugas akhir jurusan Teknik Informatika UIN SGD BANDUNG yang disusun oleh Innasya Rahmania</string>
+
+</resources>

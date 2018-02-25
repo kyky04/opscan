@@ -1,0 +1,1354 @@
+[
+  {
+    "id": "1",
+    "opt_id": "1",
+    "merek_dagang": "Ampligo 150 ZC",
+    "bahan_aktif": "lamda sihalotrin + klorantraniliprol",
+    "cara_kerja": "3A + 28",
+    "bahaya_pestisida": "II + U"
+  },
+  {
+    "id": "2",
+    "opt_id": "1",
+    "merek_dagang": "Basamid 98 GR",
+    "bahan_aktif": "dazomet",
+    "cara_kerja": "8F",
+    "bahaya_pestisida": "II"
+  },
+  {
+    "id": "3",
+    "opt_id": "1",
+    "merek_dagang": "Diazinon 10 GR",
+    "bahan_aktif": "diazinon",
+    "cara_kerja": "1B",
+    "bahaya_pestisida": "II"
+  },
+  {
+    "id": "4",
+    "opt_id": "1",
+    "merek_dagang": "Dursban 200 EC",
+    "bahan_aktif": "klorpirifos",
+    "cara_kerja": "1B",
+    "bahaya_pestisida": "II"
+  },
+  {
+    "id": "5",
+    "opt_id": "1",
+    "merek_dagang": "Matador 25 CS",
+    "bahan_aktif": "lamda sihalotrin",
+    "cara_kerja": "3A",
+    "bahaya_pestisida": "II"
+  },
+  {
+    "id": "6",
+    "opt_id": "1",
+    "merek_dagang": "Regent 0",
+    "bahan_aktif": "3 GR",
+    "cara_kerja": "fipronil",
+    "bahaya_pestisida": "2B"
+  },
+  {
+    "id": "7",
+    "opt_id": "1",
+    "merek_dagang": "Total Max 200 EC",
+    "bahan_aktif": "imidakloprid + sipermetin",
+    "cara_kerja": "4A + 3A",
+    "bahaya_pestisida": "II + II"
+  },
+  {
+    "id": "8",
+    "opt_id": "2",
+    "merek_dagang": "Diazinon 10 GR",
+    "bahan_aktif": "diazinon",
+    "cara_kerja": "1B",
+    "bahaya_pestisida": "II"
+  },
+  {
+    "id": "9",
+    "opt_id": "2",
+    "merek_dagang": "Indofuran 3GR",
+    "bahan_aktif": "karbofuran",
+    "cara_kerja": "1A",
+    "bahaya_pestisida": "Ib"
+  },
+  {
+    "id": "10",
+    "opt_id": "2",
+    "merek_dagang": "Jordan 5 GR",
+    "bahan_aktif": "karbofuran",
+    "cara_kerja": "1A",
+    "bahaya_pestisida": "Ib"
+  },
+  {
+    "id": "11",
+    "opt_id": "2",
+    "merek_dagang": "Kardan 4 GR",
+    "bahan_aktif": "kartapa hidroklorida",
+    "cara_kerja": "14",
+    "bahaya_pestisida": "II"
+  },
+  {
+    "id": "12",
+    "opt_id": "2",
+    "merek_dagang": "Marshal 5 GR",
+    "bahan_aktif": "karbosuflan",
+    "cara_kerja": "1A",
+    "bahaya_pestisida": "II"
+  },
+  {
+    "id": "13",
+    "opt_id": "2",
+    "merek_dagang": "Neofron 3 GR",
+    "bahan_aktif": "fipronil",
+    "cara_kerja": "2B",
+    "bahaya_pestisida": "II"
+  },
+  {
+    "id": "14",
+    "opt_id": "2",
+    "merek_dagang": "Petrofur 3 GR",
+    "bahan_aktif": "karbofuran",
+    "cara_kerja": "1A",
+    "bahaya_pestisida": "Ib"
+  },
+  {
+    "id": "15",
+    "opt_id": "2",
+    "merek_dagang": "Sidafur 3GR",
+    "bahan_aktif": "karbofuran",
+    "cara_kerja": "1A",
+    "bahaya_pestisida": "Ib"
+  },
+  {
+    "id": "16",
+    "opt_id": "2",
+    "merek_dagang": "Truper 3 GR",
+    "bahan_aktif": "karbofuran",
+    "cara_kerja": "1A",
+    "bahaya_pestisida": "Ib"
+  },
+  {
+    "id": "17",
+    "opt_id": "3",
+    "merek_dagang": "Marshal 25 DS",
+    "bahan_aktif": "karbosuflan",
+    "cara_kerja": "1A",
+    "bahaya_pestisida": "II"
+  },
+  {
+    "id": "18",
+    "opt_id": "3",
+    "merek_dagang": "Regent 0",
+    "bahan_aktif": "3 GR",
+    "cara_kerja": "fipronil",
+    "bahaya_pestisida": "2B"
+  },
+  {
+    "id": "19",
+    "opt_id": "3",
+    "merek_dagang": "Diazinon 10 GR",
+    "bahan_aktif": "diazinon",
+    "cara_kerja": "1B",
+    "bahaya_pestisida": "II"
+  },
+  {
+    "id": "20",
+    "opt_id": "3",
+    "merek_dagang": "Indofuran 3 GR",
+    "bahan_aktif": "karbofuran",
+    "cara_kerja": "1A",
+    "bahaya_pestisida": "Ib"
+  },
+  {
+    "id": "21",
+    "opt_id": "3",
+    "merek_dagang": "Jordan 5 GR",
+    "bahan_aktif": "karbofuran",
+    "cara_kerja": "1A",
+    "bahaya_pestisida": "Ib"
+  },
+  {
+    "id": "22",
+    "opt_id": "3",
+    "merek_dagang": "Kardan 4 GR",
+    "bahan_aktif": "kartapa hidroklorida",
+    "cara_kerja": "14",
+    "bahaya_pestisida": "II"
+  },
+  {
+    "id": "23",
+    "opt_id": "3",
+    "merek_dagang": "Marshal 5 GR",
+    "bahan_aktif": "karbosuflan",
+    "cara_kerja": "1A",
+    "bahaya_pestisida": "II"
+  },
+  {
+    "id": "24",
+    "opt_id": "3",
+    "merek_dagang": "Neofron 3 GR",
+    "bahan_aktif": "fipronil",
+    "cara_kerja": "2B",
+    "bahaya_pestisida": "II"
+  },
+  {
+    "id": "25",
+    "opt_id": "3",
+    "merek_dagang": "Petrofur 3 GR",
+    "bahan_aktif": "karbofuran",
+    "cara_kerja": "1A",
+    "bahaya_pestisida": "Ib"
+  },
+  {
+    "id": "26",
+    "opt_id": "3",
+    "merek_dagang": "Sidafur 3GR",
+    "bahan_aktif": "karbofuran",
+    "cara_kerja": "1A",
+    "bahaya_pestisida": "Ib"
+  },
+  {
+    "id": "27",
+    "opt_id": "3",
+    "merek_dagang": "Truper 3 GR",
+    "bahan_aktif": "karbofuran",
+    "cara_kerja": "1A",
+    "bahaya_pestisida": "Ib"
+  },
+  {
+    "id": "28",
+    "opt_id": "4",
+    "merek_dagang": "Abacel18 EC",
+    "bahan_aktif": "abamektin",
+    "cara_kerja": "6",
+    "bahaya_pestisida": "?"
+  },
+  {
+    "id": "29",
+    "opt_id": "4",
+    "merek_dagang": "Acedo75SP ",
+    "bahan_aktif": "asefat",
+    "cara_kerja": "1B",
+    "bahaya_pestisida": "II"
+  },
+  {
+    "id": "30",
+    "opt_id": "4",
+    "merek_dagang": "Achlles 300 EC",
+    "bahan_aktif": "klorfenapir",
+    "cara_kerja": "1B",
+    "bahaya_pestisida": "II"
+  },
+  {
+    "id": "31",
+    "opt_id": "4",
+    "merek_dagang": "Aditrin 50 EC",
+    "bahan_aktif": "lamda sihaltorin",
+    "cara_kerja": "3A",
+    "bahaya_pestisida": "II"
+  },
+  {
+    "id": "32",
+    "opt_id": "4",
+    "merek_dagang": "Affender 25 EC",
+    "bahan_aktif": "deltametrin",
+    "cara_kerja": "3A",
+    "bahaya_pestisida": "II"
+  },
+  {
+    "id": "33",
+    "opt_id": "4",
+    "merek_dagang": "Agresor 50 EC",
+    "bahan_aktif": "deltametrin",
+    "cara_kerja": "3A",
+    "bahaya_pestisida": "II"
+  },
+  {
+    "id": "34",
+    "opt_id": "4",
+    "merek_dagang": "Agspon 400 SL",
+    "bahan_aktif": "dimehipo",
+    "cara_kerja": "14",
+    "bahaya_pestisida": "II"
+  },
+  {
+    "id": "35",
+    "opt_id": "4",
+    "merek_dagang": "Agastap 50 SP",
+    "bahan_aktif": "kartap hidroklorida",
+    "cara_kerja": "14",
+    "bahaya_pestisida": "II"
+  },
+  {
+    "id": "36",
+    "opt_id": "4",
+    "merek_dagang": "Aksigua 50 ME",
+    "bahan_aktif": "lamda sihaltorin",
+    "cara_kerja": "3A",
+    "bahaya_pestisida": "II"
+  },
+  {
+    "id": "37",
+    "opt_id": "4",
+    "merek_dagang": "Albias 75SP",
+    "bahan_aktif": "asefat",
+    "cara_kerja": "1B",
+    "bahaya_pestisida": "II"
+  },
+  {
+    "id": "38",
+    "opt_id": "4",
+    "merek_dagang": "Alcove 50 EC ",
+    "bahan_aktif": "alfa sipermetrin",
+    "cara_kerja": "3A",
+    "bahaya_pestisida": "II"
+  },
+  {
+    "id": "39",
+    "opt_id": "4",
+    "merek_dagang": "Alika247 ZC",
+    "bahan_aktif": "lamda sihaltorin + tiametoksam",
+    "cara_kerja": "3A + 4A",
+    "bahaya_pestisida": "II + ?"
+  },
+  {
+    "id": "40",
+    "opt_id": "4",
+    "merek_dagang": "Alverda 240 SC",
+    "bahan_aktif": "metaflumizon",
+    "cara_kerja": "22B",
+    "bahaya_pestisida": "II"
+  },
+  {
+    "id": "41",
+    "opt_id": "4",
+    "merek_dagang": "Amazone 80 EC",
+    "bahan_aktif": "emamektin benzoat + iufenuron",
+    "cara_kerja": "6 + 15",
+    "bahaya_pestisida": "? + ?"
+  },
+  {
+    "id": "42",
+    "opt_id": "4",
+    "merek_dagang": "Ammate 150 EC",
+    "bahan_aktif": "indosakarb",
+    "cara_kerja": "22A",
+    "bahaya_pestisida": "II"
+  },
+  {
+    "id": "43",
+    "opt_id": "4",
+    "merek_dagang": "Ammate 150 SC",
+    "bahan_aktif": "indosakarb",
+    "cara_kerja": "22A",
+    "bahaya_pestisida": "II"
+  },
+  {
+    "id": "44",
+    "opt_id": "4",
+    "merek_dagang": "Ampligo 150 ZC",
+    "bahan_aktif": "lamda sihaltorin + klorantraniliprol",
+    "cara_kerja": "3A +28",
+    "bahaya_pestisida": "II + U"
+  },
+  {
+    "id": "45",
+    "opt_id": "4",
+    "merek_dagang": "Amunisi 100 EC",
+    "bahan_aktif": "sipermetrin",
+    "cara_kerja": "3A",
+    "bahaya_pestisida": "II"
+  },
+  {
+    "id": "46",
+    "opt_id": "4",
+    "merek_dagang": "Anta50 EC",
+    "bahan_aktif": "emamektin benzoat",
+    "cara_kerja": "6",
+    "bahaya_pestisida": "?"
+  },
+  {
+    "id": "47",
+    "opt_id": "4",
+    "merek_dagang": "Arbalest 30 EC",
+    "bahan_aktif": "sipermetrin",
+    "cara_kerja": "3A",
+    "bahaya_pestisida": "II"
+  },
+  {
+    "id": "48",
+    "opt_id": "4",
+    "merek_dagang": "Arcodion 200 EC",
+    "bahan_aktif": "triazofos",
+    "cara_kerja": "1B",
+    "bahaya_pestisida": "II"
+  },
+  {
+    "id": "49",
+    "opt_id": "4",
+    "merek_dagang": "Arrivo 30 EC",
+    "bahan_aktif": "sipermetrin",
+    "cara_kerja": "3A",
+    "bahaya_pestisida": "II"
+  },
+  {
+    "id": "50",
+    "opt_id": "4",
+    "merek_dagang": "Atabron50EC",
+    "bahan_aktif": "klorfluazuron",
+    "cara_kerja": "15",
+    "bahaya_pestisida": "U"
+  },
+  {
+    "id": "51",
+    "opt_id": "4",
+    "merek_dagang": "Athos240SC",
+    "bahan_aktif": "metoksifenosida",
+    "cara_kerja": "18",
+    "bahaya_pestisida": "U"
+  },
+  {
+    "id": "52",
+    "opt_id": "4",
+    "merek_dagang": "Bakti-10 ME",
+    "bahan_aktif": "emamektin benzoat",
+    "cara_kerja": "6",
+    "bahaya_pestisida": "?"
+  },
+  {
+    "id": "53",
+    "opt_id": "4",
+    "merek_dagang": "Caltrops 200 EC",
+    "bahan_aktif": "klorpirifos",
+    "cara_kerja": "1B",
+    "bahaya_pestisida": "II"
+  },
+  {
+    "id": "54",
+    "opt_id": "4",
+    "merek_dagang": "Dafat 250 EC",
+    "bahan_aktif": "asefat",
+    "cara_kerja": "1B",
+    "bahaya_pestisida": "II"
+  },
+  {
+    "id": "55",
+    "opt_id": "4",
+    "merek_dagang": "Dafat 75 SP",
+    "bahan_aktif": "asefat",
+    "cara_kerja": "1B",
+    "bahaya_pestisida": "II"
+  },
+  {
+    "id": "56",
+    "opt_id": "4",
+    "merek_dagang": "Endure 120EC",
+    "bahan_aktif": "spinetoram",
+    "cara_kerja": "5",
+    "bahaya_pestisida": "U"
+  },
+  {
+    "id": "57",
+    "opt_id": "4",
+    "merek_dagang": "Erkatrin 30 EC",
+    "bahan_aktif": "sipermetrin",
+    "cara_kerja": "3A",
+    "bahaya_pestisida": "II"
+  },
+  {
+    "id": "58",
+    "opt_id": "4",
+    "merek_dagang": "Exocet 50 EC",
+    "bahan_aktif": "sipermetrin",
+    "cara_kerja": "3A",
+    "bahaya_pestisida": "II"
+  },
+  {
+    "id": "59",
+    "opt_id": "4",
+    "merek_dagang": "Fastnate 25 WP",
+    "bahan_aktif": "metomil",
+    "cara_kerja": "1A",
+    "bahaya_pestisida": "Ib"
+  },
+  {
+    "id": "60",
+    "opt_id": "4",
+    "merek_dagang": "Impact 25 EC",
+    "bahan_aktif": "lamda sihalotrin",
+    "cara_kerja": "3A",
+    "bahaya_pestisida": "II"
+  },
+  {
+    "id": "61",
+    "opt_id": "4",
+    "merek_dagang": "Mac Lampir 300 EC",
+    "bahan_aktif": "klorfenapir",
+    "cara_kerja": "1B",
+    "bahaya_pestisida": "II"
+  },
+  {
+    "id": "62",
+    "opt_id": "4",
+    "merek_dagang": "fastnate 25 WP",
+    "bahan_aktif": "kartap hidroklorida",
+    "cara_kerja": "14",
+    "bahaya_pestisida": "II"
+  },
+  {
+    "id": "63",
+    "opt_id": "4",
+    "merek_dagang": "Samba 100 SC",
+    "bahan_aktif": "etofenfroks",
+    "cara_kerja": "3A",
+    "bahaya_pestisida": "U"
+  },
+  {
+    "id": "64",
+    "opt_id": "4",
+    "merek_dagang": "Xtradim 500 SL",
+    "bahan_aktif": "dimehipo",
+    "cara_kerja": "14",
+    "bahaya_pestisida": "II"
+  },
+  {
+    "id": "65",
+    "opt_id": "4",
+    "merek_dagang": "Zesban 480 EC",
+    "bahan_aktif": "klorpirifos",
+    "cara_kerja": "1B",
+    "bahaya_pestisida": "II"
+  },
+  {
+    "id": "66",
+    "opt_id": "5",
+    "merek_dagang": "Alfamex 18 EC",
+    "bahan_aktif": "abamektin",
+    "cara_kerja": "6",
+    "bahaya_pestisida": "?"
+  },
+  {
+    "id": "67",
+    "opt_id": "5",
+    "merek_dagang": "Balistic 50 SC",
+    "bahan_aktif": "fipronil",
+    "cara_kerja": "2B",
+    "bahaya_pestisida": "II"
+  },
+  {
+    "id": "68",
+    "opt_id": "5",
+    "merek_dagang": "Catcher 18 EC",
+    "bahan_aktif": "abamektin",
+    "cara_kerja": "6",
+    "bahaya_pestisida": "?"
+  },
+  {
+    "id": "69",
+    "opt_id": "5",
+    "merek_dagang": "Centamec 36 EC",
+    "bahan_aktif": "abamektin",
+    "cara_kerja": "6",
+    "bahaya_pestisida": "?"
+  },
+  {
+    "id": "70",
+    "opt_id": "5",
+    "merek_dagang": "Cornus 18 EC",
+    "bahan_aktif": "abamektin",
+    "cara_kerja": "6",
+    "bahaya_pestisida": "?"
+  },
+  {
+    "id": "71",
+    "opt_id": "5",
+    "merek_dagang": "Cypermax 200 EC",
+    "bahan_aktif": "sipermetin",
+    "cara_kerja": "3A",
+    "bahaya_pestisida": "II"
+  },
+  {
+    "id": "72",
+    "opt_id": "5",
+    "merek_dagang": "Cyrrotex 75 SP",
+    "bahan_aktif": "siromazin",
+    "cara_kerja": "17",
+    "bahaya_pestisida": "III"
+  },
+  {
+    "id": "73",
+    "opt_id": "5",
+    "merek_dagang": "Dafat 75 SP",
+    "bahan_aktif": "asefat",
+    "cara_kerja": "1B",
+    "bahaya_pestisida": "II"
+  },
+  {
+    "id": "74",
+    "opt_id": "5",
+    "merek_dagang": "Demolish 18 EC",
+    "bahan_aktif": "abamektin",
+    "cara_kerja": "6",
+    "bahaya_pestisida": "?"
+  },
+  {
+    "id": "75",
+    "opt_id": "5",
+    "merek_dagang": "Fipkill 50 SC",
+    "bahan_aktif": "fipronil",
+    "cara_kerja": "2B",
+    "bahaya_pestisida": "II"
+  },
+  {
+    "id": "76",
+    "opt_id": "5",
+    "merek_dagang": "Indomektin 20 EC",
+    "bahan_aktif": "abamektin",
+    "cara_kerja": "6",
+    "bahaya_pestisida": "?"
+  },
+  {
+    "id": "77",
+    "opt_id": "5",
+    "merek_dagang": "Kristal 50 SP",
+    "bahan_aktif": "kartap hidroklorida",
+    "cara_kerja": "14",
+    "bahaya_pestisida": "II"
+  },
+  {
+    "id": "78",
+    "opt_id": "5",
+    "merek_dagang": "Penality 50 SC",
+    "bahan_aktif": "fipronil",
+    "cara_kerja": "2B",
+    "bahaya_pestisida": "II"
+  },
+  {
+    "id": "79",
+    "opt_id": "5",
+    "merek_dagang": "Pirate 200 SC",
+    "bahan_aktif": "klorpirifos",
+    "cara_kerja": "1B",
+    "bahaya_pestisida": "II"
+  },
+  {
+    "id": "80",
+    "opt_id": "5",
+    "merek_dagang": "Promectin 60 EC",
+    "bahan_aktif": "abamektin",
+    "cara_kerja": "6",
+    "bahaya_pestisida": "?"
+  },
+  {
+    "id": "81",
+    "opt_id": "5",
+    "merek_dagang": "Qiumex 36 EC",
+    "bahan_aktif": "abamektin",
+    "cara_kerja": "6",
+    "bahaya_pestisida": "?"
+  },
+  {
+    "id": "82",
+    "opt_id": "5",
+    "merek_dagang": "Siklon 5",
+    "bahan_aktif": "7 WG",
+    "cara_kerja": "emamektin benzoat",
+    "bahaya_pestisida": "6"
+  },
+  {
+    "id": "83",
+    "opt_id": "5",
+    "merek_dagang": "Tracy 120 SC",
+    "bahan_aktif": "spinosad",
+    "cara_kerja": "5",
+    "bahaya_pestisida": "II"
+  },
+  {
+    "id": "84",
+    "opt_id": "5",
+    "merek_dagang": "Trigard 75 WP",
+    "bahan_aktif": "siromazin",
+    "cara_kerja": "17",
+    "bahaya_pestisida": "III"
+  },
+  {
+    "id": "85",
+    "opt_id": "5",
+    "merek_dagang": "Valetudo 300 EC",
+    "bahan_aktif": "klofenapir",
+    "cara_kerja": "1B",
+    "bahaya_pestisida": "II"
+  },
+  {
+    "id": "86",
+    "opt_id": "5",
+    "merek_dagang": "Vartap 50 SP",
+    "bahan_aktif": "kartap hidroklorida",
+    "cara_kerja": "14",
+    "bahaya_pestisida": "II"
+  },
+  {
+    "id": "87",
+    "opt_id": "5",
+    "merek_dagang": "Delegate 25 WG",
+    "bahan_aktif": "spinetoram",
+    "cara_kerja": "5",
+    "bahaya_pestisida": "U"
+  },
+  {
+    "id": "88",
+    "opt_id": "5",
+    "merek_dagang": "Bullish 360/40 EC",
+    "bahan_aktif": "buprofezin + abamektin",
+    "cara_kerja": "16 + 6",
+    "bahaya_pestisida": "III + ?"
+  },
+  {
+    "id": "89",
+    "opt_id": "5",
+    "merek_dagang": "Tenano 360 SC",
+    "bahan_aktif": "spinetoram + metoksifenosida",
+    "cara_kerja": "5 + 18 ",
+    "bahaya_pestisida": "U + U"
+  },
+  {
+    "id": "90",
+    "opt_id": "5",
+    "merek_dagang": "Associate 200 SC",
+    "bahan_aktif": "emamektin benzoat + indoksakarab",
+    "cara_kerja": "6 + 22A",
+    "bahaya_pestisida": "? + II"
+  },
+  {
+    "id": "91",
+    "opt_id": "5",
+    "merek_dagang": "Benzapyr 120 SC",
+    "bahan_aktif": "klorfenapir + emamektin benzoat",
+    "cara_kerja": "1B + 6",
+    "bahaya_pestisida": "II + ?"
+  },
+  {
+    "id": "92",
+    "opt_id": "5",
+    "merek_dagang": "Oblivion 180/120 SC",
+    "bahan_aktif": "klorfenapir + indoksakarab",
+    "cara_kerja": "1B +22A",
+    "bahaya_pestisida": "II + II"
+  },
+  {
+    "id": "93",
+    "opt_id": "6",
+    "merek_dagang": "Kresban 200 EC",
+    "bahan_aktif": "Klorpirifos",
+    "cara_kerja": "1b",
+    "bahaya_pestisida": "II"
+  },
+  {
+    "id": "94",
+    "opt_id": "6",
+    "merek_dagang": "Sergap 410 EC",
+    "bahan_aktif": "Klorpirifos",
+    "cara_kerja": "1B",
+    "bahaya_pestisida": "II"
+  },
+  {
+    "id": "95",
+    "opt_id": "6",
+    "merek_dagang": "Bajaj 450 SL",
+    "bahan_aktif": "dimehipo",
+    "cara_kerja": "14",
+    "bahaya_pestisida": "II"
+  },
+  {
+    "id": "96",
+    "opt_id": "6",
+    "merek_dagang": "Balistic 50 SC ",
+    "bahan_aktif": "fipronil",
+    "cara_kerja": "2B",
+    "bahaya_pestisida": "II"
+  },
+  {
+    "id": "97",
+    "opt_id": "6",
+    "merek_dagang": "Besgrimex 36 EC",
+    "bahan_aktif": "abamektin",
+    "cara_kerja": "6",
+    "bahaya_pestisida": "?"
+  },
+  {
+    "id": "98",
+    "opt_id": "6",
+    "merek_dagang": "Bestfast 250 EC",
+    "bahan_aktif": "klorfenapir",
+    "cara_kerja": "1B",
+    "bahaya_pestisida": "II"
+  },
+  {
+    "id": "99",
+    "opt_id": "6",
+    "merek_dagang": "Bestox 50 EC",
+    "bahan_aktif": "alfa sipermetrin",
+    "cara_kerja": "3A",
+    "bahaya_pestisida": "II"
+  },
+  {
+    "id": "100",
+    "opt_id": "6",
+    "merek_dagang": "Bestrin Forte Plus 100 EC",
+    "bahan_aktif": "sipermetrin",
+    "cara_kerja": "3A",
+    "bahaya_pestisida": "II"
+  },
+  {
+    "id": "101",
+    "opt_id": "6",
+    "merek_dagang": "Bima 10 WP",
+    "bahan_aktif": "imidakloprid",
+    "cara_kerja": "4A",
+    "bahaya_pestisida": "II"
+  },
+  {
+    "id": "102",
+    "opt_id": "6",
+    "merek_dagang": "Caleb Tsan 28 EC",
+    "bahan_aktif": "imidakloprid",
+    "cara_kerja": "4A",
+    "bahaya_pestisida": "II"
+  },
+  {
+    "id": "103",
+    "opt_id": "6",
+    "merek_dagang": "Callicron 500 EC",
+    "bahan_aktif": "profenofos",
+    "cara_kerja": "1B",
+    "bahaya_pestisida": "II"
+  },
+  {
+    "id": "104",
+    "opt_id": "6",
+    "merek_dagang": "Dafat 400 SL",
+    "bahan_aktif": "asefat",
+    "cara_kerja": "1B",
+    "bahaya_pestisida": "II"
+  },
+  {
+    "id": "105",
+    "opt_id": "6",
+    "merek_dagang": "Dafat 75 SP",
+    "bahan_aktif": "asefat",
+    "cara_kerja": "1B",
+    "bahaya_pestisida": "II"
+  },
+  {
+    "id": "106",
+    "opt_id": "6",
+    "merek_dagang": "Dagger 200 SL",
+    "bahan_aktif": "imidakloprid",
+    "cara_kerja": "4A",
+    "bahaya_pestisida": "II"
+  },
+  {
+    "id": "107",
+    "opt_id": "6",
+    "merek_dagang": "Electric 500 EC",
+    "bahan_aktif": "profenofos",
+    "cara_kerja": "1B",
+    "bahaya_pestisida": "II"
+  },
+  {
+    "id": "108",
+    "opt_id": "6",
+    "merek_dagang": "Famdatrin 50 EC",
+    "bahan_aktif": "lamda sihalotrin",
+    "cara_kerja": "3A",
+    "bahaya_pestisida": "II"
+  },
+  {
+    "id": "109",
+    "opt_id": "6",
+    "merek_dagang": "Nugor 400 EC",
+    "bahan_aktif": "dimetoat",
+    "cara_kerja": "1B",
+    "bahaya_pestisida": "II"
+  },
+  {
+    "id": "110",
+    "opt_id": "7",
+    "merek_dagang": "Alfamex 18 EC",
+    "bahan_aktif": "abamektin",
+    "cara_kerja": "6",
+    "bahaya_pestisida": "?"
+  },
+  {
+    "id": "111",
+    "opt_id": "7",
+    "merek_dagang": "Buldok 25 EC",
+    "bahan_aktif": "beta siflutrin",
+    "cara_kerja": "3A",
+    "bahaya_pestisida": "Ib"
+  },
+  {
+    "id": "112",
+    "opt_id": "7",
+    "merek_dagang": "Catcher 18 EC",
+    "bahan_aktif": "abamektin",
+    "cara_kerja": "6",
+    "bahaya_pestisida": "?"
+  },
+  {
+    "id": "113",
+    "opt_id": "7",
+    "merek_dagang": "Cornus 18 EC",
+    "bahan_aktif": "abamektin",
+    "cara_kerja": "6",
+    "bahaya_pestisida": "?"
+  },
+  {
+    "id": "114",
+    "opt_id": "7",
+    "merek_dagang": "Cypermax 200 EC",
+    "bahan_aktif": "sipermetin",
+    "cara_kerja": "3A",
+    "bahaya_pestisida": "II"
+  },
+  {
+    "id": "115",
+    "opt_id": "7",
+    "merek_dagang": "Fastop 100 EC",
+    "bahan_aktif": "alfa spermetrin",
+    "cara_kerja": "3A",
+    "bahaya_pestisida": "II"
+  },
+  {
+    "id": "116",
+    "opt_id": "7",
+    "merek_dagang": "Indomektin 20 EC",
+    "bahan_aktif": "abamektin",
+    "cara_kerja": "6",
+    "bahaya_pestisida": "?"
+  },
+  {
+    "id": "117",
+    "opt_id": "7",
+    "merek_dagang": "Movento Energy 240 SC",
+    "bahan_aktif": "imida kloropid + spirotetramat",
+    "cara_kerja": "4A + 23",
+    "bahaya_pestisida": "II + III"
+  },
+  {
+    "id": "118",
+    "opt_id": "7",
+    "merek_dagang": "Padan 50 SP",
+    "bahan_aktif": "Kartap hidroklorida",
+    "cara_kerja": "14",
+    "bahaya_pestisida": "II"
+  },
+  {
+    "id": "119",
+    "opt_id": "7",
+    "merek_dagang": "Perkill 50 EC",
+    "bahan_aktif": "permetrin",
+    "cara_kerja": "3A",
+    "bahaya_pestisida": "II"
+  },
+  {
+    "id": "120",
+    "opt_id": "7",
+    "merek_dagang": "Promectin 60 EC",
+    "bahan_aktif": "abamektin",
+    "cara_kerja": "6",
+    "bahaya_pestisida": "?"
+  },
+  {
+    "id": "121",
+    "opt_id": "7",
+    "merek_dagang": "RIP 200 EC",
+    "bahan_aktif": "klorfenapir",
+    "cara_kerja": "1B",
+    "bahaya_pestisida": "II"
+  },
+  {
+    "id": "122",
+    "opt_id": "7",
+    "merek_dagang": "Sinocrab 50 SP",
+    "bahan_aktif": "Kartap hidroklorida",
+    "cara_kerja": "6",
+    "bahaya_pestisida": "?"
+  },
+  {
+    "id": "123",
+    "opt_id": "7",
+    "merek_dagang": "Solomon 300 OD",
+    "bahan_aktif": "imida kloropid + spirotetramat",
+    "cara_kerja": "4A + 23",
+    "bahaya_pestisida": "II + Ib"
+  },
+  {
+    "id": "124",
+    "opt_id": "7",
+    "merek_dagang": "Metasystox 250 EC",
+    "bahan_aktif": "metil oksidemeton",
+    "cara_kerja": "1B",
+    "bahaya_pestisida": "II"
+  },
+  {
+    "id": "125",
+    "opt_id": "8",
+    "merek_dagang": "Abacel18 EC",
+    "bahan_aktif": "abamektin",
+    "cara_kerja": "6",
+    "bahaya_pestisida": "?"
+  },
+  {
+    "id": "126",
+    "opt_id": "8",
+    "merek_dagang": "Acedo75SP ",
+    "bahan_aktif": "asefat",
+    "cara_kerja": "1B",
+    "bahaya_pestisida": "II"
+  },
+  {
+    "id": "127",
+    "opt_id": "8",
+    "merek_dagang": "Achlles 300 EC",
+    "bahan_aktif": "klorfenapir",
+    "cara_kerja": "1B",
+    "bahaya_pestisida": "II"
+  },
+  {
+    "id": "128",
+    "opt_id": "8",
+    "merek_dagang": "Aditrin 50 EC",
+    "bahan_aktif": "lamda sihaltorin",
+    "cara_kerja": "3A",
+    "bahaya_pestisida": "II"
+  },
+  {
+    "id": "129",
+    "opt_id": "8",
+    "merek_dagang": "Affender 25 EC",
+    "bahan_aktif": "deltametrin",
+    "cara_kerja": "3A",
+    "bahaya_pestisida": "II"
+  },
+  {
+    "id": "130",
+    "opt_id": "8",
+    "merek_dagang": "Agresor 50 EC",
+    "bahan_aktif": "deltametrin",
+    "cara_kerja": "3A",
+    "bahaya_pestisida": "II"
+  },
+  {
+    "id": "131",
+    "opt_id": "8",
+    "merek_dagang": "Agspon 400 SL",
+    "bahan_aktif": "dimehipo",
+    "cara_kerja": "14",
+    "bahaya_pestisida": "II"
+  },
+  {
+    "id": "132",
+    "opt_id": "8",
+    "merek_dagang": "Agastap 50 SP",
+    "bahan_aktif": "kartap hidroklorida",
+    "cara_kerja": "14",
+    "bahaya_pestisida": "II"
+  },
+  {
+    "id": "133",
+    "opt_id": "8",
+    "merek_dagang": "Aksigua 50 ME",
+    "bahan_aktif": "lamda sihaltorin",
+    "cara_kerja": "3A",
+    "bahaya_pestisida": "II"
+  },
+  {
+    "id": "134",
+    "opt_id": "8",
+    "merek_dagang": "Albias 75SP",
+    "bahan_aktif": "asefat",
+    "cara_kerja": "1B",
+    "bahaya_pestisida": "II"
+  },
+  {
+    "id": "135",
+    "opt_id": "8",
+    "merek_dagang": "Alcove 50 EC ",
+    "bahan_aktif": "alfa sipermetrin",
+    "cara_kerja": "3A",
+    "bahaya_pestisida": "II"
+  },
+  {
+    "id": "136",
+    "opt_id": "8",
+    "merek_dagang": "Alika247 ZC",
+    "bahan_aktif": "lamda sihaltorin + tiametoksam",
+    "cara_kerja": "3A + 4A",
+    "bahaya_pestisida": "II + ?"
+  },
+  {
+    "id": "137",
+    "opt_id": "8",
+    "merek_dagang": "Alverda 240 SC",
+    "bahan_aktif": "metaflumizon",
+    "cara_kerja": "22B",
+    "bahaya_pestisida": "II"
+  },
+  {
+    "id": "138",
+    "opt_id": "8",
+    "merek_dagang": "Amazone 80 EC",
+    "bahan_aktif": "emamektin benzoat + iufenuron",
+    "cara_kerja": "6 + 15",
+    "bahaya_pestisida": "? + ?"
+  },
+  {
+    "id": "139",
+    "opt_id": "8",
+    "merek_dagang": "Ammate 150 EC",
+    "bahan_aktif": "indosakarb",
+    "cara_kerja": "22A",
+    "bahaya_pestisida": "II"
+  },
+  {
+    "id": "140",
+    "opt_id": "8",
+    "merek_dagang": "Ammate 150 SC",
+    "bahan_aktif": "indosakarb",
+    "cara_kerja": "22A",
+    "bahaya_pestisida": "II"
+  },
+  {
+    "id": "141",
+    "opt_id": "8",
+    "merek_dagang": "Ampligo 150 ZC",
+    "bahan_aktif": "lamda sihaltorin + klorantraniliprol",
+    "cara_kerja": "3A +28",
+    "bahaya_pestisida": "II + U"
+  },
+  {
+    "id": "142",
+    "opt_id": "8",
+    "merek_dagang": "Amunisi 100 EC",
+    "bahan_aktif": "sipermetrin",
+    "cara_kerja": "3A",
+    "bahaya_pestisida": "II"
+  },
+  {
+    "id": "143",
+    "opt_id": "8",
+    "merek_dagang": "Anta50 EC",
+    "bahan_aktif": "emamektin benzoat",
+    "cara_kerja": "6",
+    "bahaya_pestisida": "?"
+  },
+  {
+    "id": "144",
+    "opt_id": "8",
+    "merek_dagang": "Arbalest 30 EC",
+    "bahan_aktif": "sipermetrin",
+    "cara_kerja": "3A",
+    "bahaya_pestisida": "II"
+  },
+  {
+    "id": "145",
+    "opt_id": "8",
+    "merek_dagang": "Arcodion 200 EC",
+    "bahan_aktif": "triazofos",
+    "cara_kerja": "1B",
+    "bahaya_pestisida": "II"
+  },
+  {
+    "id": "146",
+    "opt_id": "8",
+    "merek_dagang": "Arrivo 30 EC",
+    "bahan_aktif": "sipermetrin",
+    "cara_kerja": "3A",
+    "bahaya_pestisida": "II"
+  },
+  {
+    "id": "147",
+    "opt_id": "8",
+    "merek_dagang": "Atabron50EC",
+    "bahan_aktif": "klorfluazuron",
+    "cara_kerja": "15",
+    "bahaya_pestisida": "U"
+  },
+  {
+    "id": "148",
+    "opt_id": "8",
+    "merek_dagang": "Athos240SC",
+    "bahan_aktif": "metoksifenosida",
+    "cara_kerja": "18",
+    "bahaya_pestisida": "U"
+  },
+  {
+    "id": "149",
+    "opt_id": "8",
+    "merek_dagang": "Bakti-10 ME",
+    "bahan_aktif": "emamektin benzoat",
+    "cara_kerja": "6",
+    "bahaya_pestisida": "?"
+  },
+  {
+    "id": "150",
+    "opt_id": "8",
+    "merek_dagang": "Caltrops 200 EC",
+    "bahan_aktif": "klorpirifos",
+    "cara_kerja": "1B",
+    "bahaya_pestisida": "II"
+  },
+  {
+    "id": "151",
+    "opt_id": "8",
+    "merek_dagang": "Dafat 250 EC",
+    "bahan_aktif": "asefat",
+    "cara_kerja": "1B",
+    "bahaya_pestisida": "II"
+  },
+  {
+    "id": "152",
+    "opt_id": "8",
+    "merek_dagang": "Dafat 75 SP",
+    "bahan_aktif": "asefat",
+    "cara_kerja": "1B",
+    "bahaya_pestisida": "II"
+  },
+  {
+    "id": "153",
+    "opt_id": "8",
+    "merek_dagang": "Endure 120EC",
+    "bahan_aktif": "spinetoram",
+    "cara_kerja": "5",
+    "bahaya_pestisida": "U"
+  },
+  {
+    "id": "154",
+    "opt_id": "8",
+    "merek_dagang": "Erkatrin 30 EC",
+    "bahan_aktif": "sipermetrin",
+    "cara_kerja": "3A",
+    "bahaya_pestisida": "II"
+  },
+  {
+    "id": "155",
+    "opt_id": "8",
+    "merek_dagang": "Exocet 50 EC",
+    "bahan_aktif": "sipermetrin",
+    "cara_kerja": "3A",
+    "bahaya_pestisida": "II"
+  },
+  {
+    "id": "156",
+    "opt_id": "8",
+    "merek_dagang": "Fastnate 25 WP",
+    "bahan_aktif": "metomil",
+    "cara_kerja": "1A",
+    "bahaya_pestisida": "Ib"
+  },
+  {
+    "id": "157",
+    "opt_id": "8",
+    "merek_dagang": "Impact 25 EC",
+    "bahan_aktif": "lamda sihalotrin",
+    "cara_kerja": "3A",
+    "bahaya_pestisida": "II"
+  },
+  {
+    "id": "158",
+    "opt_id": "8",
+    "merek_dagang": "Mac Lampir 300 EC",
+    "bahan_aktif": "klorfenapir",
+    "cara_kerja": "1B",
+    "bahaya_pestisida": "II"
+  },
+  {
+    "id": "159",
+    "opt_id": "8",
+    "merek_dagang": "fastnate 25 WP",
+    "bahan_aktif": "kartap hidroklorida",
+    "cara_kerja": "14",
+    "bahaya_pestisida": "II"
+  },
+  {
+    "id": "160",
+    "opt_id": "8",
+    "merek_dagang": "Samba 100 SC",
+    "bahan_aktif": "etofenfroks",
+    "cara_kerja": "3A",
+    "bahaya_pestisida": "U"
+  },
+  {
+    "id": "161",
+    "opt_id": "8",
+    "merek_dagang": "Xtradim 500 SL",
+    "bahan_aktif": "dimehipo",
+    "cara_kerja": "14",
+    "bahaya_pestisida": "II"
+  },
+  {
+    "id": "162",
+    "opt_id": "8",
+    "merek_dagang": "Zesban 480 EC",
+    "bahan_aktif": "klorpirifos",
+    "cara_kerja": "1B",
+    "bahaya_pestisida": "II"
+  },
+  {
+    "id": "163",
+    "opt_id": "8",
+    "merek_dagang": "Snowden 30 EC",
+    "bahan_aktif": "emamektin benzoat",
+    "cara_kerja": "6",
+    "bahaya_pestisida": "?"
+  },
+  {
+    "id": "164",
+    "opt_id": "8",
+    "merek_dagang": "Throids 250 EC",
+    "bahan_aktif": "sipermetrin",
+    "cara_kerja": "3A",
+    "bahaya_pestisida": "II"
+  },
+  {
+    "id": "165",
+    "opt_id": "8",
+    "merek_dagang": "Vortex 30 EC",
+    "bahan_aktif": "emamektin benzoat",
+    "cara_kerja": "6",
+    "bahaya_pestisida": "?"
+  },
+  {
+    "id": "166",
+    "opt_id": "8",
+    "merek_dagang": "Vivo 100 EC",
+    "bahan_aktif": "sipermetrin",
+    "cara_kerja": "3A",
+    "bahaya_pestisida": "II"
+  },
+  {
+    "id": "167",
+    "opt_id": "8",
+    "merek_dagang": "Versus 250 EC",
+    "bahan_aktif": "klorfenapir",
+    "cara_kerja": "1B",
+    "bahaya_pestisida": "II"
+  },
+  {
+    "id": "168",
+    "opt_id": "8",
+    "merek_dagang": "Rhenos 36 EC",
+    "bahan_aktif": "abamektin",
+    "cara_kerja": "6",
+    "bahaya_pestisida": "?"
+  },
+  {
+    "id": "169",
+    "opt_id": "8",
+    "merek_dagang": "Empire 280 EC",
+    "bahan_aktif": "klorfenapir",
+    "cara_kerja": "1B",
+    "bahaya_pestisida": "II"
+  }
+]

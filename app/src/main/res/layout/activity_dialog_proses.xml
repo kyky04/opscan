@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@android:color/white"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_gravity="bottom"
+            android:layout_marginBottom="30dp"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="20dp"
+            android:layout_marginTop="30dp"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/tv1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Indikasi Tanaman" />
+
+            <CheckBox
+                android:id="@+id/ck0"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Tangakai Daun Terpotong" />
+
+            <CheckBox
+                android:id="@+id/ck1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Tanaman Roboh Terpotong Pangkal Batang" />
+
+            <CheckBox
+                android:id="@+id/ck2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Daun Rebah / Daun Layu" />
+
+            <CheckBox
+                android:id="@+id/ck3"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Daun Keriput" />
+
+            <CheckBox
+                android:id="@+id/ck4"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Bintik Putih pada Daun" />
+
+            <CheckBox
+                android:id="@+id/ck5"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Daging Daun Habis" />
+
+            <CheckBox
+                android:id="@+id/ck6"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Bercak-bercak putih" />
+
+            <CheckBox
+                android:id="@+id/ck7"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Daun Berlubang" />
+
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="horizontal">
+
+            <!--
+            <Button
+                android:id="@+id/deteksi"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@android:color/holo_blue_dark"
+                android:clickable="true"
+                android:textSize="12dp"
+                android:text="Deteksi"
+                android:textColor="@android:color/white"
+                android:textStyle="bold"
+                android:layout_weight="1" />
+                -->
+
+            <Button
+                android:id="@+id/batal"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:background="@color/colorPrimary"
+                android:clickable="true"
+                android:text="Batal"
+                android:textColor="@android:color/white"
+                android:textSize="12dp"
+                android:textStyle="bold" />
+        </LinearLayout>
+    </LinearLayout>
+
+
+</FrameLayout>
